@@ -85,7 +85,7 @@ Proje, "Rice_Image_Dataset" klasöründe bulunan beş farklı pirinç çeşidini
 
 ### Eğitim ve Doğrulama Metrikleri
 
-![Eğitim Sonuçları](egitim_sonuclari.png)
+![Eğitim Sonuçları](uygulamaresimleri/egitim_sonuclari.png)
 
 **Eğitim Grafiği Açıklaması:**
 - **Sol grafik**: Eğitim ve doğrulama doğruluğu (accuracy) değişimi
@@ -95,7 +95,7 @@ Doğrulama doğruluğu eğitim süresince dalgalanmaktadır, modelin final doğr
 
 ### F1 Skorları
 
-![F1 Skorları](f1_skorlari.png)
+![F1 Skorları](uygulamaresimleri/f1_skorlari.png)
 
 | Pirinç Çeşidi | F1 Skoru |
 |---------------|----------|
@@ -107,7 +107,7 @@ Doğrulama doğruluğu eğitim süresince dalgalanmaktadır, modelin final doğr
 
 ### Karışıklık Matrisi
 
-![Karışıklık Matrisi](karisiklik_matrisi.png)
+![Karışıklık Matrisi](uygulamaresimleri/karisiklik_matrisi.png)
 
 **Önemli Gözlemler:**
 - Ipsala ve Basmati arasında yüksek karışma oranı (638)
@@ -141,7 +141,7 @@ python pirinc_siniflandirma_arayuzu.py
 
 ## 🖥️ Kullanıcı Arayüzü
 
-![Pirinç Sınıflandırma Arayüzü](uygulama_arayuzu.jpg)
+![Pirinç Sınıflandırma Arayüzü](uygulamaresimleri/uygulama_arayuzu.jpg)
 
 **Arayüz Özellikleri:**
 - Görüntü yükleme ve otomatik önişleme
