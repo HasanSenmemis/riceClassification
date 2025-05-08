@@ -1,16 +1,16 @@
 # 🌾 Pirinç Çeşidi Sınıflandırma Sistemi
 
 ## 📋 İçindekiler
-- [Proje Hakkında](#proje-hakkında)
-- [Desteklenen Pirinç Çeşitleri](#desteklenen-pirinç-çeşitleri)
-- [Sistem Bileşenleri](#sistem-bileşenleri)
-- [Model Mimarisi](#model-mimarisi)
-- [Performans Analizi](#performans-analizi)
-- [Kurulum](#kurulum)
-- [Kullanım](#kullanım)
-- [Gereksinimler](#gereksinimler)
-- [Gelecek Geliştirmeler](#gelecek-geliştirmeler)
-- [İletişim](#iletişim)
+- [Proje Hakkında]
+- [Desteklenen Pirinç Çeşitleri]
+- [Sistem Bileşenleri]
+- [Model Mimarisi]
+- [Performans Analizi]
+- [Kurulum]
+- [Kullanım]
+- [Gereksinimler]
+- [Gelecek Geliştirmeler]
+
 
 ## 🔍 Proje Hakkında
 
