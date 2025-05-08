@@ -34,6 +34,7 @@ Sistem aşağıdaki pirinç çeşitlerini sınıflandırabilmektedir:
 ## 📊 Veri Seti
 
 Proje, "Rice_Image_Dataset" klasöründe bulunan beş farklı pirinç çeşidinin görüntülerini kullanmaktadır. Tüm görüntüler 150x150 piksel boyutuna ölçeklendirilerek eğitim için standartlaştırılmıştır.
+Veri seti belirtilen linkten indirilip kullanılmıştır: https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset?resource=download
 
 ## 🧠 Model Mimarisi
 
